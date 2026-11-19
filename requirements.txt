@@ -1,0 +1,4 @@
+flask
+trafilatura
+requests
+gunicorn
